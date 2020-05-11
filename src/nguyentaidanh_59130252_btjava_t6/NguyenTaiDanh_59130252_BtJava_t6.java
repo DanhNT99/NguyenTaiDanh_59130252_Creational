@@ -5,9 +5,6 @@
  */
 package nguyentaidanh_59130252_btjava_t6;
 
-import bai1.CTHD;
-import bai1.HoaDon;
-import bai1.HoaDonHeader;
 
 /**
  *
