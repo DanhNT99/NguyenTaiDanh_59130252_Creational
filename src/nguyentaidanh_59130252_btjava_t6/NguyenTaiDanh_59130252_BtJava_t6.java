@@ -20,4 +20,5 @@ public class NguyenTaiDanh_59130252_BtJava_t6 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    }
 }
