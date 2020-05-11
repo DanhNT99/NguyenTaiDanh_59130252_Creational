@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package bai1;
-
 /**
  *
  * @author Nguyen Tai Danh
